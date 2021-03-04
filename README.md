@@ -1,2 +1,3 @@
 # Quiz-Level-2
- Your task is to create a registration form and collect the users input, then display inputs on the same page after the user click submit 
+
+This Repo contains all the Task been Done on Side Hustle, for easy Searching and Recording of Task
