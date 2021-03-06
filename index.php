@@ -14,6 +14,7 @@ include('includes/header.php');
     </div>
     <div class="card-body">
       <div class="tab-content">
+        <span>This are list of all the Tasks given, embedded into on ROOT file</span>
         <p>Please click on any of the listed Tasks</p>
         <h3><a href="assignments/rechargeCard.php"> Recharge Card Task</a> (Graded) <br></h3>
         <h3><a href="assignments/simpleCalculator.php"> Simple Calculator Task</a><br></h3>
